@@ -1375,3 +1375,29 @@ body {
 .cid-qV8qpJ45J7 {
   background-image: url("../../../assets/images/mbr-1620x1080.jpg");
 }
+.cid-qV8sS1bL7t {
+  background-image: url("../../../assets/images/03.jpg");
+}
+.cid-qV8sS1bL7t .icons-media-container {
+  display: flex;
+  justify-content: center;
+  -webkit-justify-content: center;
+  flex-direction: row;
+  -webkit-flex-direction: row;
+  flex-wrap: wrap;
+  -webkit-flex-wrap: wrap;
+  padding-top: 4rem;
+}
+.cid-qV8sS1bL7t .icons-media-container .mbr-iconfont {
+  font-size: 96px;
+  color: #ffffff;
+}
+.cid-qV8sS1bL7t .icons-media-container .icon-block {
+  padding-bottom: 1rem;
+}
+.cid-qV8sS1bL7t .mbr-text {
+  color: #ffffff;
+}
+.cid-qV8sS1bL7t .card {
+  padding-bottom: 1.5rem;
+}
